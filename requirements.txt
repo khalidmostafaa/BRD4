@@ -4,6 +4,4 @@ pandas
 scikit-learn
 rdkit-pypi
 numpy
-matplotlib
-requests
-rdkit
+
