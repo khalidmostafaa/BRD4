@@ -2,6 +2,5 @@ streamlit
 torch
 pandas
 scikit-learn
-rdkit-pypi
 numpy
 
