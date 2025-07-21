@@ -6,6 +6,7 @@ from rdkit import Chem
 from rdkit.Chem import AllChem
 from torch import nn
 
+
 # -----------------------------
 # 1. Define the neural network model architecture
 # -----------------------------
